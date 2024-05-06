@@ -1,0 +1,7 @@
+{
+  "cdn": {
+    "bucket": "cdn.stokedconsulting.com",
+    "domain": "cdn.stokedconsulting.com",
+    "region": "us-east-1"
+  }
+}

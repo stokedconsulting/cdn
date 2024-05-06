@@ -1,0 +1,5 @@
+/node_modules/
+**/.DS_Store
+.idea
+/plyr/static/demo/View_From_A_Blue_Moon_Trailer-1080p.mp4
+/plyr/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4
